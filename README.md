@@ -62,10 +62,10 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 ### 3. Process
 All the operations on the data are performed in this phase
-1. Data Merging
-2. Data Exploring
-3. Data Cleaning
-4. Data Analysis
+1. [Data Merging](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/1%20-%20Cyclist_Data%20_Merging%20.sql)
+2. [Data Exploring](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/2%20-%20Data%20exploration.sql)
+3. [Data Cleaning](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/3%20-%20Cleaned_data.sq)
+4. [Data Analysis](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/4%20-%20Analysis.sql)
 ### 4. Analyze
 ### 5. Share
 ### 6. Act
