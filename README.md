@@ -61,6 +61,11 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 - Data Vizualization - Tableau
 
 ### 3. Process
+All the operations on the data are performed in this phase
+1. Data Merging
+2. Data Exploring
+3. Data Cleaning
+4. Data Analysis
 ### 4. Analyze
 ### 5. Share
 ### 6. Act
