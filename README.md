@@ -35,4 +35,12 @@ The Cyclistic Bike Share case study is a capstone project for the Google Data An
  Firstly, Cyclistic executives must have to approve our recommendations, so they must be backed up with gripping data insights and professional data visualizations.
 
 ## Approach
- 
+### 1. Ask
+
+Business Task - Designing Market Stratergies to convert Casual Riders to Members by understanding how do they both differ and how digital markerting would affect this conversion
+
+Questions for guiding future marketing program:-
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
