@@ -68,7 +68,19 @@ All the operations on the data are performed in this phase
     1. The data consists of the following 13 attributes 
        
        ![image](https://github.com/user-attachments/assets/3552ebe1-7b6e-443c-927e-2f1daefc1e9d)
-    2. 
+    2. Null value counts for each attribute
+       
+       ![image](https://github.com/user-attachments/assets/a065e2b0-31ae-476e-a545-1a632afcf52f)
+    3. Checking for Duplicate Rows
+    4. Checking Length of the Ride id if it is constant or not
+    5. Checking the types of Bikes in the data
+    
+       ![image](https://github.com/user-attachments/assets/9842149d-943f-4d6d-ad6d-a3b16b8f55d2)
+    6. Types of Riders
+   
+       ![image](https://github.com/user-attachments/assets/937e2731-ca2f-4b41-810d-e7b2ac0e8659)
+
+
 
 3. [Data Cleaning](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/3%20-%20Cleaned_data.sq)
 ### 4. Analyze
