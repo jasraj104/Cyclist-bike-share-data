@@ -72,6 +72,9 @@ All the operations on the data are performed in this phase
        
        ![image](https://github.com/user-attachments/assets/a065e2b0-31ae-476e-a545-1a632afcf52f)
     3. Checking for Duplicate Rows
+	
+       ![image](https://github.com/user-attachments/assets/b7ebff54-79f1-4d0c-98e8-5fafb5afbba4)
+
     4. Checking Length of the Ride id if it is constant or not
     5. Checking the types of Bikes in the data
     
