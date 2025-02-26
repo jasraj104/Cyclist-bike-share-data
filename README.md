@@ -98,11 +98,20 @@ All the operations on the data are performed in this phase
  1. Firstly, the Members and Casual Riders are compared by total number of rides they have completed.
 
     ![Sheet 1](https://github.com/user-attachments/assets/28c2ab0a-2daa-4736-b7d9-6e34dda59fd5)
-    The Cyclistic Members make upto 59.45 % of the total where as casual riders are accounted for 40.55 %.
- 3. Then Members and Casual Riders are compared by the types of the bikes they are using for each ride
+
+    The Cyclistic Members make upto **59.45 %** of the total where as casual riders are accounted for **40.55 %**.
+ 3. Then Members and Casual Riders are compared by the types of the bikes they are using for each ride.
 
     ![Sheet 2](https://github.com/user-attachments/assets/90171dcd-ac7a-4803-9584-41230e632048)
 
+    - The Type of Bikes chart depicts that majority ie.**39%** of Member Riders prefer Classic Bikes over other two.
+    - The Docked bikes are only preferred by the Casual Riders.
+ 4. Average ride Duration of both types
+
+    ![Avg duration MEM vs CAS](https://github.com/user-attachments/assets/4625b595-ad44-4057-a26a-627b7b2f22c6)
+
+    - Here the members ride the bicycles for about 12.41 minutes on average whereas casual riders have an average ride length of 23.82 minutes.
+    - Hence, the ride duration of Cyclistic members is approximately two times smaller than casual riders.
 
  
 ### 5. Share
