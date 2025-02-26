@@ -86,6 +86,11 @@ All the operations on the data are performed in this phase
 
 
 3. [Data Cleaning](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/3%20-%20Cleaned_data.sq)
+
+   - All the rows with null/missing values and inconsistencies were removed
+   - 3 New Columns ride_length_in_mins ,day_of_week , month were added
+   - All the trips which were less than a minute and more than the day were removed.
+  
 ### 4. Analyze
  [Data Analysis](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/4%20-%20Analysis.sql)
 ### 5. Share
