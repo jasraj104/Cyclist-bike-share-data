@@ -92,7 +92,19 @@ All the operations on the data are performed in this phase
    - All the trips which were less than a minute and more than the day were removed.
   
 ### 4. Analyze
- [Data Analysis](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/4%20-%20Analysis.sql)
+[Data Analysis](https://github.com/jasraj104/Cyclist-bike-share-data/blob/main/4%20-%20Analysis.sql) - Now that our data is stored appropriately and has been prepared for analysis, we'll start putting it to work.
+ 
+ 	Analysis Question  - How do annual members and casual riders use Cyclistic bikes differently?
+ 1. Firstly, the Members and Casual Riders are compared by total number of rides they have completed.
+
+    ![Sheet 1](https://github.com/user-attachments/assets/28c2ab0a-2daa-4736-b7d9-6e34dda59fd5)
+    The Cyclistic Members make upto 59.45 % of the total where as casual riders are accounted for 40.55 %.
+ 3. Then Members and Casual Riders are compared by the types of the bikes they are using for each ride
+
+    ![Sheet 2](https://github.com/user-attachments/assets/90171dcd-ac7a-4803-9584-41230e632048)
+
+
+ 
 ### 5. Share
 ### 6. Act
 
