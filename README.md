@@ -124,7 +124,19 @@ All the operations on the data are performed in this phase
     While comparing the hourly basis it is observed that during 4am - 8am & 4pm - 6pm the member riders take the large no of trips and During 4pm - 6pm the no of trips for casual riders increases.
 
     From the above observations we can conclude that the member riders are using bikes to commute to and from work during weekdays while the casual riders are using the bike frequently throughout the weekdays and they tend to increase during the weekends for the leisure purposes . Both are most operative during the summers and spring.
+ 6. Average trip durattion
+    ![Sheet 6](https://github.com/user-attachments/assets/21083f89-baae-422b-8ef3-953f477d5d9b)
+    ![Sheet 7](https://github.com/user-attachments/assets/3c837d34-a5eb-4fea-8a70-6806196b4f5c)
+    ![Sheet 8](https://github.com/user-attachments/assets/5aeda7bf-a9a1-4e65-ae32-6165aa2627a2)
 
+    Based on the above 3 figures we can observe that Casual riders cycle more than the members on an average. The average ride length of the members remains constant throughout the year, week & day . It is also observed that during the Spring and Summer , on Weekends betwwen 10am and 3pm the casual riders tend to make longer trips.
+
+    Thus from the above findings we can conclude that Casual riders tend to ride 2x longer than members but are less frequent.
+
+
+
+
+    
  
 ### 5. Share
 ### 6. Act
