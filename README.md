@@ -112,6 +112,18 @@ All the operations on the data are performed in this phase
 
     - Here the members ride the bicycles for about 12.41 minutes on average whereas casual riders have an average ride length of 23.82 minutes.
     - Hence, the ride duration of Cyclistic members is approximately two times smaller than casual riders.
+ 5. Total no of trips Monthly / Per Day of Week / Hourly
+
+    ![Sheet 3](https://github.com/user-attachments/assets/b2fcca50-aa57-4b93-b39b-bf6fe7be553b)
+    When the Monthly trips of riders are compared the graph shows the simililar behaviour exhibited by both types of riders where larger no of rides are taken in the Spring and Summer seasons while fewer in the winters. The gap between the Casual and Members is closest in the month of July.
+    
+    ![Sheet 4](https://github.com/user-attachments/assets/8d24d4c2-c917-4241-b513-e5a70a444f2f)
+    When the rides during days of the week are compared it is observed that the no of rides taken by the casual riders increases in the Weekends and for the members it decreases.
+    
+    ![Sheet 5](https://github.com/user-attachments/assets/d1f47ae9-f97b-4eac-acf1-3ecb6192641f)
+    While comparing the hourly basis it is observed that during 4am - 8am & 4pm - 6pm the member riders take the large no of trips and During 4pm - 6pm the no of trips for casual riders increases.
+
+    From the above observations we can conclude that the member riders are using bikes to commute to and from work during weekdays while the casual riders are using the bike frequently throughout the weekdays and they tend to increase during the weekends for the leisure purposes . Both are most operative during the summers and spring.
 
  
 ### 5. Share
