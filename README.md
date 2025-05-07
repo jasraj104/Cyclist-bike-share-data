@@ -134,10 +134,25 @@ All the operations on the data are performed in this phase
     Thus from the above findings we can conclude that Casual riders tend to ride 2x longer than members but are less frequent.
 
 
-
-
-    
  
 ### 5. Share
+
+![Dash](https://github.com/user-attachments/assets/8335f767-244c-4e84-98f9-bbc722609b39)
+
+With the help of the above dashboard all the Likeness and Differences were drawn
+1. Both Cyclistic members and casual riders prefer riding bicycles in the spring and summer seasons (from May to September). However, the number of rides decrease since September. This may be due to change of season in which the weather temperature drops and becomes uncomfortable for rides.
+2. Both Cyclistic members and casual riders have the Higher preferences for classic bicycles over electric bicycles.
+3. Both Cyclistic members and casual riders have higher average ride duration on weekends as compared to on weekdays.
+4. Cyclistic members tend to take more rides than casual riders.
+5. Cyclistic members have smaller average ride length (12.41 minutes) than casual riders (23.82 minutes). Hence, this may suggest that the Cyclistic members take the bicycles for short trips or short distance travel.
+6. Cyclistic members show consistent rides throughout the week while casual riders have the busiest activites on weekends and lowest activities during weekdays. This may indicate that the Cyclistic members use the bicycles for *purpose-oriented rides such as work or errands while the casual riders use bicycles for leisure or recreational activities.
+7. Casual riders Start and End their journeys near parks, museums, along the coast and other recreational sites whereas Member riders Start and End their trips close to universities, residential and commercial areas.
+
 ### 6. Act
+After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.
+1.Campaigns - Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
+2.Short Memberships - Casual riders are most active on weekends and during the summer and spring, thus they may be offered a Short - seasonal / weekend-only memberships.
+3. Discounts- Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time. 
+4.Group Membership Discounts - Offer discounted plans for friends, students, and families can encourage collective memberships. Furthermore, it encourages users to cycle together and strengthen the bonds between people.
+5.Social Media Engagement - Utilize digital media, including social media platforms, to engage with both casual riders and potential members. Share success stories, testimonials, and user-generated content from Cyclistic members who have benefited from the membership. Create visually appealing content showcasing the joy of cycling during different seasons and scenarios, enticing casual riders to become members.
 
