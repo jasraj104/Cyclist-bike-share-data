@@ -150,9 +150,9 @@ With the help of the above dashboard all the Likeness and Differences were drawn
 
 ### 6. Act
 After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.
-1.Campaigns - Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
-2.Short Memberships - Casual riders are most active on weekends and during the summer and spring, thus they may be offered a Short - seasonal / weekend-only memberships.
+1. Campaigns - Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
+2. Short Memberships - Casual riders are most active on weekends and during the summer and spring, thus they may be offered a Short - seasonal / weekend-only memberships.
 3. Discounts- Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time. 
-4.Group Membership Discounts - Offer discounted plans for friends, students, and families can encourage collective memberships. Furthermore, it encourages users to cycle together and strengthen the bonds between people.
-5.Social Media Engagement - Utilize digital media, including social media platforms, to engage with both casual riders and potential members. Share success stories, testimonials, and user-generated content from Cyclistic members who have benefited from the membership. Create visually appealing content showcasing the joy of cycling during different seasons and scenarios, enticing casual riders to become members.
+4. Group Membership Discounts - Offer discounted plans for friends, students, and families can encourage collective memberships. Furthermore, it encourages users to cycle together and strengthen the bonds between people.
+5. Social Media Engagement - Utilize digital media, including social media platforms, to engage with both casual riders and potential members. Share success stories, testimonials, and user-generated content from Cyclistic members who have benefited from the membership. Create visually appealing content showcasing the joy of cycling during different seasons and scenarios, enticing casual riders to become members.
 
